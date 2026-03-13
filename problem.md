@@ -1,5 +1,4 @@
 # fisika-komputasi
-Untuk pengajaran fisika komputasi Universitas Negeri Malang
 
 Calculate the velocity $v(t)=x ̇(t)$  and the acceleration $a(t)=x ̈(t)$ for the loaded data set that describes a set of points $(t_i,x_i )$  for $i=0, …,1000$.
 1. Calculate y_i  and a_i  using the forward-differences, central-differences and backward difference
